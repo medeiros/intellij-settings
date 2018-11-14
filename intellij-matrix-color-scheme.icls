@@ -1,16 +1,21 @@
-<scheme name="intellij-matrix-color-scheme" version="142" parent_scheme="Darcula">
+<scheme name="medeiros" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-11-11T18:46:22</property>
+    <property name="created">2018-11-14T19:49:14</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-11-11T18:46:28</property>
-    <property name="originalScheme">intellij-matrix-color-scheme</property>
+    <property name="modified">2018-11-14T19:49:25</property>
+    <property name="originalScheme">medeiros</property>
   </metaInfo>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9bb11" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -40,6 +45,48 @@
       <value>
         <option name="FOREGROUND" value="9bb11" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.DataType">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Function">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Identifier">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Keyword">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Number">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Parenthesis">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.QuotedIdentifier">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Variable">
+      <value>
+        <option name="FOREGROUND" value="9bb11" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
